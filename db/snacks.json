@@ -1,0 +1,42 @@
+{
+  "snack1": {
+    "imageUrl": "https://www.dollargeneral.com/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/0/0/00773801.jpg",
+    "name": "Skittles",
+    "price": 75,
+    "currentStocked": 2,
+    "lifetimeNum": 6,
+    "uid": "jh4Yv2RizwMbDTXbQpYFh1kPSS83"
+  },
+  "snack2": {
+    "imageUrl": "https://cdn.influenster.com/media/product/image/bc010f9a9cb8f3f8a65aaf418fdb1a68.png.750x750_q85ss0_progressive.jpg",
+    "name": "Butterfinger",
+    "price": 100,
+    "currentStocked": 5,
+    "lifetimeNum": 7,
+    "uid": "jh4Yv2RizwMbDTXbQpYFh1kPSS83"
+  },
+  "snack3": {
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71DvsuntlqL._SY445_PIbundle-7,TopRight,0,0_SX254SY445SH20_.jpg",
+    "name": "Hot Fries",
+    "price": 50,
+    "currentStocked": 9,
+    "lifetimeNum": 25,
+    "uid": "jh4Yv2RizwMbDTXbQpYFh1kPSS83"
+  },
+  "snack4": {
+    "imageUrl": "https://i5.walmartimages.com/asr/d88e276f-72e6-49a3-b0ed-3504051a7de1_1.8040a12e97e51ef511d0dcd22838db1e.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+    "name": "M & M's",
+    "price": 125,
+    "currentStocked": 1,
+    "lifetimeNum": 4,
+    "uid": "jh4Yv2RizwMbDTXbQpYFh1kPSS83"
+  },
+  "snack5": {
+    "imageUrl": "https://www.dollargeneral.com/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/0/0/00034000002467_cf__gs1_jpeg.jpg",
+    "name": "Kit-Kat",
+    "price": 50,
+    "currentStocked": 9,
+    "lifetimeNum": 10,
+    "uid": "12345"
+  }
+}

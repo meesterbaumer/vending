@@ -1,0 +1,52 @@
+{
+    "position1": {
+    "position": "A1",
+    "machioneId": "machine1",
+    "uid": "jh4Yv2RizwMbDTXbQpYFh1kPSS83"
+  },
+    "position2": {
+    "position": "A2",
+    "machioneId": "machine1",
+    "uid": "jh4Yv2RizwMbDTXbQpYFh1kPSS83"
+  },
+    "position3": {
+    "position": "A3",
+    "machioneId": "machine1",
+    "uid": "jh4Yv2RizwMbDTXbQpYFh1kPSS83"
+  },
+    "position4": {
+    "position": "B1",
+    "machioneId": "machine1",
+    "uid": "jh4Yv2RizwMbDTXbQpYFh1kPSS83"
+  },
+    "position5": {
+    "position": "B2",
+    "machioneId": "machine1",
+    "uid": "jh4Yv2RizwMbDTXbQpYFh1kPSS83"
+  },
+    "position6": {
+    "position": "B3",
+    "machioneId": "machine1",
+    "uid": "jh4Yv2RizwMbDTXbQpYFh1kPSS83"
+  },
+    "position7": {
+    "position": "C1",
+    "machioneId": "machine1",
+    "uid": "jh4Yv2RizwMbDTXbQpYFh1kPSS83"
+  },
+    "position8": {
+    "position": "C2",
+    "machioneId": "machine1",
+    "uid": "jh4Yv2RizwMbDTXbQpYFh1kPSS83"
+  },
+    "position9": {
+    "position": "C3",
+    "machioneId": "machine1",
+    "uid": "jh4Yv2RizwMbDTXbQpYFh1kPSS83"
+  },
+    "position10": {
+    "position": "A1",
+    "machioneId": "12345",
+    "uid": "12345"
+  }
+}
